@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+/build
+/tags
+/bbs_testnet_data
+.idea
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+Release
+Debug
+testnet.address
+testnet.wallet
+testnet_pool.wallet
+*.log

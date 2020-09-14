@@ -1,0 +1,62 @@
+|| Release notes 6.1.0
+
+SimpleWallet added key import and export.
+SimpleWallet added BIP39-style mnemonic words. (Compatible with Web Wallet)
+Optimize code
+
+|| Release notes 6.0.1
+
+Optimize code
+Fix stuck after TCP EPOLLERR | EPOLLHUP
+
+|| Release notes 6.0.0
+
+Add extra validation on block structure.
+
+|| Release notes 5.0.0
+
+Bump block version
+
+|| Release notes 4.2.0
+
+Switch to LWMA-3 Difficulty Algorithm
+Mempool will delete outdated transactions for 7 days
+Fix infinite unlock time when transfer using simplewallet RPC
+
+|| Release notes 4.1.2
+
+Updated burning bug fixes: 
+- It will check all existed transactions in wallet also.
+- Performance improved
+- Fixed crashes
+
+|| Release notes 4.1.1
+
+Fix burning bug
+
+|| Release notes 4.1.0
+
+Fix a bug impacting the block solve time
+
+|| Release notes 4.0.0
+
+Switch PoW to Cryptonight V7 Lite
+Switch to LWMA-2 Difficulty Algorithm
+Add more upgrade tips
+Add version checker for GUI Wallet
+Fix seed searching problem
+Fix memory leak caused by arbitary data in tx_extra
+
+|| Release notes 3.0.0
+
+Switch PoW to Cryptonight V7
+Tweak to LWMA Difficulty Algorithm
+Fixes many synchronization problems
+
+|| Release notes 2.0.0
+
+Switch to LWMA Difficulty Algorithm
+
+|| Release notes 1.0.0
+
+BBSCoin Released
