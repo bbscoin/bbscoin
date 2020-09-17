@@ -90,4 +90,4 @@ ETH: <br>0x29da788fb4a162e97d64cc0ec1817af35fe14ad1 <br><br>
 ## Links
 
 * Official Web Site: https://bbscoin.xyz
-* Web Wallet: https://bbs.money
+* Official Twitter: https://twitter.com/bbscoin_xyz
